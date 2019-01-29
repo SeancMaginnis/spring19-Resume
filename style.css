@@ -1,0 +1,23 @@
+font-family: 'Exo 2', sans-serif;
+
+section h1 {
+  background-color:rgb(56, 240, 215);
+}
+
+h1{
+background-color: blanchedalmond  
+}
+
+
+header{
+  text-align: center;
+}
+
+header h1:hover{
+  color:red;
+  font-size: 28px;
+}
+
+.primary {
+  color:green;
+}
